@@ -1,0 +1,12 @@
+{
+    "server_name": "localhost",
+    "server_port": 8081,
+    "server_approot":"cspusage",
+    "back_end_server_name": "localhost",
+    "back_end_server_port": 8000,
+    "ssl_cert_path": "ssl\\cspuageconfigfe1.pem",
+    "ssl_key_path": "ssl\\cspuageconfigfe1_unencrypted.key",
+    "ssl_ca_pool": ["ssl\\server.CA.crt"],
+    "logFile": "logfe.txt"
+
+}
